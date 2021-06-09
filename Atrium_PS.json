@@ -206,7 +206,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"images\/Atrium\/lpc-victorian-decoration\/victorian-garden.png",
+         "image":"images/Atrium/lpc-victorian-decoration/victorian-garden.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -219,7 +219,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"images\/Atrium\/lpc-victorian-decoration\/victorian-market.png",
+         "image":"images/Atrium/lpc-victorian-decoration/victorian-market.png",
          "imageheight":2560,
          "imagewidth":512,
          "margin":0,
@@ -232,7 +232,7 @@
         {
          "columns":16,
          "firstgid":2305,
-         "image":"images\/Atrium\/lpc-victorian-decoration\/victorian-streets.png",
+         "image":"images/Atrium/lpc-victorian-decoration/victorian-streets.png",
          "imageheight":3072,
          "imagewidth":512,
          "margin":0,
@@ -255,7 +255,7 @@
         {
          "columns":16,
          "firstgid":3841,
-         "image":"images\/Atrium\/Desert2\/lpc-beach-desert\/beach-desert.png",
+         "image":"images/Atrium/Desert2/lpc-beach-desert/beach-desert.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -268,7 +268,7 @@
         {
          "columns":32,
          "firstgid":4097,
-         "image":"images\/Atrium\/lpc-beach-desert\/beach-desert_2.png",
+         "image":"images/Atrium/lpc-beach-desert/beach-desert_2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -281,7 +281,7 @@
         {
          "columns":16,
          "firstgid":5121,
-         "image":"images\/Atrium\/lpc-flowers-plants-fungi-wood\/plants.png",
+         "image":"images/Atrium/lpc-flowers-plants-fungi-wood\/plants.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -294,7 +294,7 @@
         {
          "columns":32,
          "firstgid":5633,
-         "image":"images\/Atrium\/lpc-jungle\/jungle.png",
+         "image":"images/Atrium/lpc-jungle/jungle.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -307,7 +307,7 @@
         {
          "columns":32,
          "firstgid":6657,
-         "image":"images\/Atrium\/lpc-trees\/trees-green.png",
+         "image":"images/Atrium/lpc-trees/trees-green.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -320,7 +320,7 @@
         {
          "columns":7,
          "firstgid":7681,
-         "image":"images\/Atrium\/Boden\/preview_774.png",
+         "image":"images/Atrium/Boden/preview_774.png",
          "imageheight":250,
          "imagewidth":250,
          "margin":0,
@@ -333,7 +333,7 @@
         {
          "columns":1,
          "firstgid":7730,
-         "image":"images\/Atrium\/Boden\/default_silver_sandstone_brick.png",
+         "image":"images/Atrium/Boden/default_silver_sandstone_brick.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -346,7 +346,7 @@
         {
          "columns":1,
          "firstgid":7731,
-         "image":"images\/Atrium\/Boden\/default_desert_stone_brick.png",
+         "image":"images/Atrium/Boden/default_desert_stone_brick.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -372,7 +372,7 @@
         {
          "columns":1,
          "firstgid":7733,
-         "image":"images\/Atrium\/Boden\/Treppe_Seitlich.png",
+         "image":"images/Atrium/Boden/Treppe_Seitlich.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -385,7 +385,7 @@
         {
          "columns":1,
          "firstgid":7734,
-         "image":"images\/Atrium\/Boden\/Treppe_Stuck.png",
+         "image":"images/Atrium/Boden/Treppe_Stuck.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -398,7 +398,7 @@
         {
          "columns":1,
          "firstgid":7735,
-         "image":"images\/Atrium\/Boden\/Mix_Gras_Erde.png",
+         "image":"images/Atrium/Boden/Mix_Gras_Erde.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -411,7 +411,7 @@
         {
          "columns":1,
          "firstgid":7736,
-         "image":"images\/Atrium\/Atrium_weitere_Sets\/WasserSteine.png",
+         "image":"images/Atrium/Atrium_weitere_Sets/WasserSteine.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
