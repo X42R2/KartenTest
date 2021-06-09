@@ -28,7 +28,7 @@
          "name":"Kollision",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -53,10 +53,10 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"music/WATRFlow_Small stream 4 (ID 1354)_BSB.mp3"
+                 "value":"..\/music\/WATRFlow_Small stream 4 (ID 1354)_BSB.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -81,10 +81,10 @@
                 {
                  "name":"playAudio",
                  "type":"file",
-                 "value":"music/AMBForst_Forest (ID 0100)_BSB.mp3"
+                 "value":"..\/music\/AMBForst_Forest (ID 0100)_BSB.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -96,19 +96,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
-         "width":33,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 5348, 5378, 0, 5364, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5377, 5347, 0, 5364, 5394, 0, 0, 5347, 5364, 0, 5364, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 5393, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5379, 5362, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5362, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5361, 5362, 5361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5379, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5394, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5378, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5394, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5379, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5361, 5348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 5377, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5393, 0, 5364, 5364, 0, 5331, 0, 0, 0, 0, 5331, 5377, 0, 5361, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 5361, 5364, 5347, 0, 0, 5332, 5364, 5347, 5393, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 0, 0, 0, 5348, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":33,
-         "id":4,
-         "name":"Seepflanzen",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -120,7 +108,30 @@
          "name":"Stuehle",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
+         "width":33,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":14,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 5348, 5378, 0, 5364, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5377, 5347, 0, 5364, 5394, 0, 0, 5347, 5364, 0, 5364, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 5393, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5379, 5362, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5362, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5361, 5362, 5361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5379, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5394, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5378, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5394, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5332, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5379, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5361, 5348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 0, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 5377, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 5331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5393, 0, 5364, 5364, 0, 5331, 0, 0, 0, 0, 5331, 5377, 0, 5361, 5347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5347, 5361, 5364, 5347, 0, 0, 5332, 5364, 5347, 5393, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5364, 0, 0, 0, 5348, 5364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":33,
+         "id":4,
+         "name":"Seepflanzen",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -132,7 +143,7 @@
          "name":"PflanzenHinten",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -144,7 +155,7 @@
          "name":"Pflanzen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -156,7 +167,7 @@
          "name":"Pflanzen2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -168,7 +179,7 @@
          "name":"Pflanzen3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
@@ -180,12 +191,12 @@
          "name":"Pflanzen4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":33,
          "x":0,
          "y":0
         }],
- "nextlayerid":14,
+ "nextlayerid":15,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -195,7 +206,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"images/Atrium/lpc-victorian-decoration/victorian-garden.png",
+         "image":"..\/images\/Atrium\/lpc-victorian-decoration\/victorian-garden.png",
          "imageheight":2048,
          "imagewidth":512,
          "margin":0,
@@ -208,7 +219,7 @@
         {
          "columns":16,
          "firstgid":1025,
-         "image":"images/Atrium/lpc-victorian-decoration/victorian-market.png",
+         "image":"..\/images\/Atrium\/lpc-victorian-decoration\/victorian-market.png",
          "imageheight":2560,
          "imagewidth":512,
          "margin":0,
@@ -221,7 +232,7 @@
         {
          "columns":16,
          "firstgid":2305,
-         "image":"images/Atrium/lpc-victorian-decoration/victorian-streets.png",
+         "image":"..\/images\/Atrium\/lpc-victorian-decoration\/victorian-streets.png",
          "imageheight":3072,
          "imagewidth":512,
          "margin":0,
@@ -244,7 +255,7 @@
         {
          "columns":16,
          "firstgid":3841,
-         "image":"images/Atrium/Desert2/lpc-beach-desert/beach-desert.png",
+         "image":"..\/images\/Atrium\/Desert2\/lpc-beach-desert\/beach-desert.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -257,7 +268,7 @@
         {
          "columns":32,
          "firstgid":4097,
-         "image":"images/Atrium/lpc-beach-desert/beach-desert_2.png",
+         "image":"..\/images\/Atrium\/lpc-beach-desert\/beach-desert_2.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -270,7 +281,7 @@
         {
          "columns":16,
          "firstgid":5121,
-         "image":"images/Atrium/lpc-flowers-plants-fungi-wood/plants.png",
+         "image":"..\/images\/Atrium\/lpc-flowers-plants-fungi-wood\/plants.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -283,7 +294,7 @@
         {
          "columns":32,
          "firstgid":5633,
-         "image":"images/Atrium/lpc-jungle/jungle.png",
+         "image":"..\/images\/Atrium\/lpc-jungle\/jungle.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -296,7 +307,7 @@
         {
          "columns":32,
          "firstgid":6657,
-         "image":"images/Atrium/lpc-trees/trees-green.png",
+         "image":"..\/images\/Atrium\/lpc-trees\/trees-green.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -309,7 +320,7 @@
         {
          "columns":7,
          "firstgid":7681,
-         "image":"images/Atrium/Boden/preview_774.png",
+         "image":"..\/images\/Atrium\/Boden\/preview_774.png",
          "imageheight":250,
          "imagewidth":250,
          "margin":0,
@@ -322,7 +333,7 @@
         {
          "columns":1,
          "firstgid":7730,
-         "image":"images/Atrium/Boden/default_silver_sandstone_brick.png",
+         "image":"..\/images\/Atrium\/Boden\/default_silver_sandstone_brick.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -335,7 +346,7 @@
         {
          "columns":1,
          "firstgid":7731,
-         "image":"images/Atrium/Boden/default_desert_stone_brick.png",
+         "image":"..\/images\/Atrium\/Boden\/default_desert_stone_brick.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -348,7 +359,7 @@
         {
          "columns":1,
          "firstgid":7732,
-         "image":"images/Atrium/Boden/Treppe_Stone.png",
+         "image":"..\/images\/Atrium\/Boden\/Treppe_Stone.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -361,7 +372,7 @@
         {
          "columns":1,
          "firstgid":7733,
-         "image":"images/Atrium/Boden/Treppe_Seitlich.png",
+         "image":"..\/images\/Atrium\/Boden\/Treppe_Seitlich.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -374,7 +385,7 @@
         {
          "columns":1,
          "firstgid":7734,
-         "image":"images/Atrium/Boden/Treppe_Stuck.png",
+         "image":"..\/images\/Atrium\/Boden\/Treppe_Stuck.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -387,7 +398,7 @@
         {
          "columns":1,
          "firstgid":7735,
-         "image":"images/Atrium/Boden/Mix_Gras_Erde.png",
+         "image":"..\/images\/Atrium\/Boden\/Mix_Gras_Erde.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -400,7 +411,7 @@
         {
          "columns":1,
          "firstgid":7736,
-         "image":"images/Atrium/Atrium_weitere_Sets/WasserSteine.png",
+         "image":"..\/images\/Atrium\/Atrium_weitere_Sets\/WasserSteine.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
